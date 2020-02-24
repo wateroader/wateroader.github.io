@@ -3,15 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.flysnow.org/categories/</loc>
+    <loc>https://wateroader.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>https://www.flysnow.org/tags/</loc>
+    <loc>https://wateroader.github.io/tags/</loc>
   </url>
   
   <url>
-    <loc>https://www.flysnow.org/</loc>
+    <loc>https://wateroader.github.io/archives/</loc>
+  </url>
+  
+  <url>
+    <loc>https://wateroader.github.io/search/</loc>
+  </url>
+  
+  <url>
+    <loc>https://wateroader.github.io/</loc>
   </url>
   
 </urlset>
