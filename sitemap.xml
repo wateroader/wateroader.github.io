@@ -4,22 +4,42 @@
   
   <url>
     <loc>https://wateroader.github.io/categories/</loc>
+    <lastmod>2020-02-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wateroader.github.io/tags/hugo/</loc>
+    <lastmod>2020-02-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wateroader.github.io/post/</loc>
+    <lastmod>2020-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://wateroader.github.io/tags/</loc>
+    <lastmod>2020-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wateroader.github.io/archives/</loc>
+    <loc>https://wateroader.github.io/tags/%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2020-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wateroader.github.io/search/</loc>
+    <loc>https://wateroader.github.io/categories/%E6%9D%82%E8%AE%B0/</loc>
+    <lastmod>2020-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://wateroader.github.io/</loc>
+    <lastmod>2020-02-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wateroader.github.io/post/stories/2020/0224_first_blog/</loc>
+    <lastmod>2020-02-24T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>
